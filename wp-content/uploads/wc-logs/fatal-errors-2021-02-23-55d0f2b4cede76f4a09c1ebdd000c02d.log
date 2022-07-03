@@ -1,0 +1,4 @@
+2021-02-23T03:32:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Payments\Integrations\BankTransfer.php on line 11
+
+2021-02-23T03:33:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+
